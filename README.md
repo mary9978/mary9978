@@ -1,6 +1,6 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm maryam rezaei</h1>
-<h3 align="center">Frontend Developer | Pixel-Perfect UI Enthusiast** Passionate about crafting high-quality, pixel-perfect user interfaces with **React** and **Next.js**. I thrive on **learning new technologies and tackling exciting challenges** to create smooth, responsive, and efficient web experiences. Always pushing my limits to grow and innovate.Let’s build something amazing! 🚀</h3>
+<h3 align="center">Frontend Developer | Pixel-Perfect UI Enthusiast</h3>
+<p>Passionate about crafting high-quality, pixel-perfect user interfaces with **React** and **Next.js**. I thrive on **learning new technologies and tackling exciting challenges** to create smooth, responsive, and efficient web experiences. Always pushing my limits to grow and innovate.Let’s build something amazing! 🚀</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
